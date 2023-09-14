@@ -1,0 +1,14 @@
+C:\Projects\VBDemo\VBDemo\bin\Debug\net7.0\VBDemo.exe
+C:\Projects\VBDemo\VBDemo\bin\Debug\net7.0\VBDemo.deps.json
+C:\Projects\VBDemo\VBDemo\bin\Debug\net7.0\VBDemo.runtimeconfig.json
+C:\Projects\VBDemo\VBDemo\bin\Debug\net7.0\VBDemo.dll
+C:\Projects\VBDemo\VBDemo\bin\Debug\net7.0\VBDemo.pdb
+C:\Projects\VBDemo\VBDemo\obj\Debug\net7.0\VBDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\VBDemo\VBDemo\obj\Debug\net7.0\VBDemo.AssemblyInfoInputs.cache
+C:\Projects\VBDemo\VBDemo\obj\Debug\net7.0\VBDemo.AssemblyInfo.vb
+C:\Projects\VBDemo\VBDemo\obj\Debug\net7.0\VBDemo.vbproj.CoreCompileInputs.cache
+C:\Projects\VBDemo\VBDemo\obj\Debug\net7.0\VBDemo.dll
+C:\Projects\VBDemo\VBDemo\obj\Debug\net7.0\refint\VBDemo.dll
+C:\Projects\VBDemo\VBDemo\obj\Debug\net7.0\VBDemo.pdb
+C:\Projects\VBDemo\VBDemo\obj\Debug\net7.0\VBDemo.genruntimeconfig.cache
+C:\Projects\VBDemo\VBDemo\obj\Debug\net7.0\ref\VBDemo.dll
